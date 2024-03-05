@@ -9,7 +9,7 @@ public class Invite
     public int MariageId { get; set; }
 
     // Relation avec Mariage
-    public Mariage Mariage { get; set; }
+    public Mariage? Mariage { get; set; }
 }
 
 public enum TypeInvite
