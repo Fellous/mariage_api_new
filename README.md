@@ -59,5 +59,3 @@ Project Link: [https://github.com/Fellous/mariage_api_new.git](https://github.co
 ---
 
 *Note: Please ensure to create the CONTRIBUTING.md and LICENSE files if they do not exist and link them appropriately.*
-
-
